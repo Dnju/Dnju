@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dnju 
+- 👋 Hi, I’m David 
 - 👀 I’m interested in software and system development 
 - 🌱 I’m currently learning learning android studio and how create an API.
 - 💞️ I’m looking to collaborate on Softare and System development
